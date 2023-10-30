@@ -1,0 +1,7 @@
+*.mat
+/loveda/
+/postdam/
+/uavid_v1.5_official_release_image/
+/vaihingen/
+/residual-unet-main/
+*.zip
